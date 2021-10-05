@@ -1,2 +1,2 @@
 # mc-sync
-Backup your Minecraft worlds with one command.
+Backup your Minecraft worlds across devices. Java Edition only.
